@@ -1,5 +1,6 @@
 class A {
 
+val b = 30;
 val a = 10;
 val b=2;
 }
