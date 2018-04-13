@@ -1,5 +1,5 @@
 class A {
 
 val a = 10;
-
+val b=2;
 }
